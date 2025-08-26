@@ -1,7 +1,7 @@
 ⚠️ **Note:** This version of MIWXAlerts is now archived and **not intended for active use**. It was my very first project using the NWS API and was an amazing learning experience!
 
 ## 📜 License
-This project is licensed under the MIT License. Please give credit to (ooDVG)[https://github.com/oodvg] and/or MIWXAlerts if you use or modify any part of the code.
+This project is licensed under the MIT License. Please give credit to [ooDVG](https://github.com/oodvg) and/or MIWXAlerts if you use or modify any part of the code.
 
 
 # 🌩️ MIWXAlerts - Discord Weather System  
